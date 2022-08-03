@@ -6799,8 +6799,8 @@
     (tedit 0) (tstamp dddfa4ff-c9ca-4443-9a7e-0305a180b7e3)
     (at 188.73 76.28 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "ZzSplit" (at -6.66 -11.75) (layer "B.SilkS")
-      (effects (font (size 3 3) (thickness 0.3)) (justify mirror))
+    (fp_text reference ".V1" (at 40.95 -64.11) (layer "B.SilkS")
+      (effects (font (size 1 1) (thickness 0.25)) (justify mirror))
       (tstamp 00ef1bf9-33f5-4a6f-93f5-11bfa5974838)
     )
     (fp_text value "LOGO" (at 0.75 0) (layer "B.SilkS") hide
@@ -7254,6 +7254,9 @@
   (gr_arc (start 216.63 139.85) (mid 215.891271 141.628398) (end 214.10992 142.35998) (layer "Edge.Cuts") (width 0.1) (tstamp b0be8dd5-85b5-45ad-92b7-244362b00734))
   (gr_arc (start 214.11 43.490001) (mid 215.871312 44.225759) (end 216.600019 45.99) (layer "Edge.Cuts") (width 0.1) (tstamp b8c5ce80-a007-452f-9069-0855738cc1e6))
   (gr_arc (start 55.7 45.96) (mid 56.432233 44.192233) (end 58.2 43.46) (layer "Edge.Cuts") (width 0.1) (tstamp f2fa0693-d129-4d41-8f61-ea71b32d8b3b))
+  (gr_text "ZzSplit      https://github.com/zzLinus/ZzSplit" (at 128.85 140.12) (layer "B.SilkS") (tstamp aa5e7a19-6961-405f-bd4d-8ddf993d2d8f)
+    (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
+  )
 
   (via (at 178.76 93.62) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 0) (tstamp ed0b6d72-db0b-4ed5-9a75-5c50b4d66de7))
   (segment (start 131.71 45.66) (end 132.47 46.42) (width 0.25) (layer "B.Cu") (net 1) (tstamp 05d21f45-d2cd-4685-ba91-a0fe2431d09d))
