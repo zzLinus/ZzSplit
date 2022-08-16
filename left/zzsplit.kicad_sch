@@ -4000,7 +4000,7 @@
     (uuid 474935d3-05af-4771-8ffc-37eaa5638224)
     (property "Reference" "SW31" (id 0) (at 31.75 171.45 0))
     (property "Value" "SW_SPDT" (id 1) (at 31.75 173.99 0))
-    (property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x03_P4.8mm_D1.25mm_OD2.3mm" (id 2) (at 31.75 179.07 0)
+    (property "Footprint" "switch:switch-MSK-12C02-smd" (id 2) (at 31.75 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 31.75 179.07 0)
@@ -5858,7 +5858,7 @@
       (reference "SW30") (unit 2) (value "SW_PUSH-MX_W_LED") (footprint "SofleRGB:SK6812MINI_and_cherry")
     )
     (path "/474935d3-05af-4771-8ffc-37eaa5638224"
-      (reference "SW31") (unit 1) (value "SW_SPDT") (footprint "Connector_Wire:SolderWire-0.75sqmm_1x03_P4.8mm_D1.25mm_OD2.3mm")
+      (reference "SW31") (unit 1) (value "SW_SPDT") (footprint "switch:switch-MSK-12C02-smd")
     )
     (path "/d0bcdda7-579c-4020-b2d3-220f6e774609"
       (reference "SW32") (unit 1) (value "SW_Push") (footprint "SofleRGB:TACT_SWITCH_TVBP06")
