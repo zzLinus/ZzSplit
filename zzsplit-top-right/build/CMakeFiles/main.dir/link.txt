@@ -1,0 +1,1 @@
+/sbin/c++ -g -rdynamic CMakeFiles/main.dir/src/ShaderManager.cc.o CMakeFiles/main.dir/main.cc.o -o main  /home/zzlinus/Dev/ThirdParty/vcpkg/installed/x64-linux/debug/lib/libglad.a /home/zzlinus/Dev/ThirdParty/vcpkg/installed/x64-linux/debug/lib/libglfw3.a -Wl,-Bstatic -lrt -Wl,-Bdynamic -lm -ldl -lX11 

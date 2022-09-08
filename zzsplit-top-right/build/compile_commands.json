@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zzlinus/Dev/PCB/ZzSplit/zzsplit-top-right/build",
+  "command": "/sbin/c++  -I/home/zzlinus/Dev/CPP/OpenGLSomething/include -isystem /home/zzlinus/Dev/ThirdParty/vcpkg/installed/x64-linux/include -g -o CMakeFiles/main.dir/src/ShaderManager.cc.o -c /home/zzlinus/Dev/CPP/OpenGLSomething/src/ShaderManager.cc",
+  "file": "/home/zzlinus/Dev/CPP/OpenGLSomething/src/ShaderManager.cc"
+},
+{
+  "directory": "/home/zzlinus/Dev/PCB/ZzSplit/zzsplit-top-right/build",
+  "command": "/sbin/c++  -I/home/zzlinus/Dev/CPP/OpenGLSomething/include -isystem /home/zzlinus/Dev/ThirdParty/vcpkg/installed/x64-linux/include -g -o CMakeFiles/main.dir/main.cc.o -c /home/zzlinus/Dev/CPP/OpenGLSomething/main.cc",
+  "file": "/home/zzlinus/Dev/CPP/OpenGLSomething/main.cc"
+}
+]

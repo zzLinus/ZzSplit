@@ -1,0 +1,3 @@
+/home/zzlinus/Dev/PCB/ZzSplit/zzsplit-top-right/build/CMakeFiles/main.dir
+/home/zzlinus/Dev/PCB/ZzSplit/zzsplit-top-right/build/CMakeFiles/edit_cache.dir
+/home/zzlinus/Dev/PCB/ZzSplit/zzsplit-top-right/build/CMakeFiles/rebuild_cache.dir
